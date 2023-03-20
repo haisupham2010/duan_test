@@ -47,7 +47,7 @@ function App() {
                   </Link>
                 </li>
                 <li className="nav-item me-3">
-                  <Link to="/cart" className="nav-link">
+                  <Link to="/duan_test/cart" className="nav-link">
                     Your Cart
                   </Link>
                 </li>
