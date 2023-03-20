@@ -129,7 +129,7 @@ function App() {
             <Route path="/about-us" element={<AboutUs />} />
             <Route path="/contact" element={<Contact />} />
             <Route path="/products/:id" element={<ProductDetails />} />
-            <Route path="/cart" element={<YourCart />} />
+            <Route path="/duan_test/cart" element={<YourCart />} />
             <Route path="/checkout" element={<CheckOut />} />
           </Routes>
         </div>
