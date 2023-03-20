@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/duan_test/static/css/main.cc6fc095.css",
+    "main.js": "/duan_test/static/js/main.0953fa65.js",
+    "static/js/787.73f12a92.chunk.js": "/duan_test/static/js/787.73f12a92.chunk.js",
+    "static/media/wc-26.png": "/duan_test/static/media/wc-26.b2e9b6ae16c6c1303579.png",
+    "static/media/wc-19-300x300.png": "/duan_test/static/media/wc-19-300x300.c97166c8b02e7f8e52a4.png",
+    "static/media/wc-11-300x300.png": "/duan_test/static/media/wc-11-300x300.3d0a25c2ed2ca0dfd841.png",
+    "static/media/wc-img-1-300x300.png": "/duan_test/static/media/wc-img-1-300x300.8c0fa96adf051c23afa6.png",
+    "static/media/wc-18-300x300.png": "/duan_test/static/media/wc-18-300x300.73e458cd9669a7888efb.png",
+    "static/media/wc-26-300x300.png": "/duan_test/static/media/wc-26-300x300.04a8e06c8525bdb874dc.png",
+    "static/media/wc-12-300x300.png": "/duan_test/static/media/wc-12-300x300.2bdefeaa736723b1ddc9.png",
+    "static/media/wc-15-300x300.png": "/duan_test/static/media/wc-15-300x300.2c070692cb315ae3527e.png",
+    "static/media/money-back.jpg": "/duan_test/static/media/money-back.3db8c381f3a009e2afe2.jpg",
+    "static/media/wc-5-100x100.png": "/duan_test/static/media/wc-5-100x100.48b8ed746f5489b563b3.png",
+    "static/media/wc-6-100x100.png": "/duan_test/static/media/wc-6-100x100.8ac466cb1fbfb4b3c0dc.png",
+    "static/media/blog-img-1-100x100.png": "/duan_test/static/media/blog-img-1-100x100.2ce5f4ed5890faa464f1.png",
+    "static/media/wc-2-100x100.png": "/duan_test/static/media/wc-2-100x100.72a74cb4144173a04b48.png",
+    "static/media/wc-3-1-100x100.png": "/duan_test/static/media/wc-3-1-100x100.7c6a4d24f0ad6b04b9a0.png",
+    "static/media/wc-gallery-100x100.png": "/duan_test/static/media/wc-gallery-100x100.89d6238632e5d82e0a07.png",
+    "static/media/wc-14-100x100.png": "/duan_test/static/media/wc-14-100x100.4453607982373e766dcd.png",
+    "static/media/wc-4-100x100.png": "/duan_test/static/media/wc-4-100x100.596c32c504f1f35d2888.png",
+    "static/media/wc-7-100x100.png": "/duan_test/static/media/wc-7-100x100.8d1b4d880c548d2c16d7.png",
+    "static/media/wc-img-1-100x100.png": "/duan_test/static/media/wc-img-1-100x100.4272f6a39cae1d1b8e5b.png",
+    "static/media/wc-11-100x100.png": "/duan_test/static/media/wc-11-100x100.e113123f3945eef8e1bd.png",
+    "static/media/wc-10-100x100.png": "/duan_test/static/media/wc-10-100x100.933af706cfb4ad2fa47b.png",
+    "static/media/wc-18-100x100.png": "/duan_test/static/media/wc-18-100x100.debb5d5dec99488c21b3.png",
+    "index.html": "/duan_test/index.html",
+    "main.cc6fc095.css.map": "/duan_test/static/css/main.cc6fc095.css.map",
+    "main.0953fa65.js.map": "/duan_test/static/js/main.0953fa65.js.map",
+    "787.73f12a92.chunk.js.map": "/duan_test/static/js/787.73f12a92.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc6fc095.css",
+    "static/js/main.0953fa65.js"
+  ]
+}
