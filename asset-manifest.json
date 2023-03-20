@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/duan_test/static/css/main.cc6fc095.css",
-    "main.js": "/duan_test/static/js/main.601eaf5a.js",
+    "main.js": "/duan_test/static/js/main.a6c45dac.js",
     "static/js/787.73f12a92.chunk.js": "/duan_test/static/js/787.73f12a92.chunk.js",
     "static/media/wc-26.png": "/duan_test/static/media/wc-26.b2e9b6ae16c6c1303579.png",
     "static/media/wc-19-300x300.png": "/duan_test/static/media/wc-19-300x300.c97166c8b02e7f8e52a4.png",
@@ -27,11 +27,11 @@
     "static/media/wc-18-100x100.png": "/duan_test/static/media/wc-18-100x100.debb5d5dec99488c21b3.png",
     "index.html": "/duan_test/index.html",
     "main.cc6fc095.css.map": "/duan_test/static/css/main.cc6fc095.css.map",
-    "main.601eaf5a.js.map": "/duan_test/static/js/main.601eaf5a.js.map",
+    "main.a6c45dac.js.map": "/duan_test/static/js/main.a6c45dac.js.map",
     "787.73f12a92.chunk.js.map": "/duan_test/static/js/787.73f12a92.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cc6fc095.css",
-    "static/js/main.601eaf5a.js"
+    "static/js/main.a6c45dac.js"
   ]
 }
